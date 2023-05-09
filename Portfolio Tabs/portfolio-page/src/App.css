@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.btnNav:hover {
+  cursor: grabbing;
+  background-color: rgb(243, 237, 158);
+  border-radius: 5px;
+  animation: ease-in-out 3s all;
+}
